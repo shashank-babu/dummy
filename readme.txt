@@ -1,4 +1,4 @@
 dummy project for slave after merged
 inside master
 inside slave
-babu
+babu2
